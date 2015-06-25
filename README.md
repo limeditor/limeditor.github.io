@@ -1,1 +1,1 @@
-# limeditor.github.io
+# limeditor

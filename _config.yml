@@ -1,4 +1,4 @@
-name: limeditor – An Open Source Web IDE
+name: Limeditor – 编程，我们是认真的！
 markdown: redcarpet
 highlighter: pygments
 exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock']
@@ -7,13 +7,13 @@ paginate: 5
 paginate_path: blog/page:num
 
 nav:
-  - text: News
-    url: /news/
-  - text: Blog
+  - text: 主页
+    url: /
+  - text: 博客
     url: /blog/
-  - text: Addons
+  - text: 插件
     url: /addons/
-  - text: Forum
+  - text: 论坛
     url: http://www.baidu.com/
-  - text: About
+  - text: 关于
     url: /about.html
